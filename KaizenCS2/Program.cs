@@ -12,6 +12,7 @@ namespace KaizenCS2
                 List<Receipt> items = JsonConvert.DeserializeObject<List<Receipt>>(json);
 
                 Console.WriteLine(items[0].description);
+
                 using (StreamWriter writetext = new StreamWriter("KaizenCS2.txt"))
                 {
                     writetext.WriteLine(items[0].description);
