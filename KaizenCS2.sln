@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaizenCS2", "KaizenCS2\KaizenCS2.csproj", "{9BB1C8C0-AD8F-4EF2-AB6B-7A7D05EF2919}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "web", "web\web.csproj", "{A9C20BD4-B46F-4F66-802D-53F54D11323B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BB1C8C0-AD8F-4EF2-AB6B-7A7D05EF2919}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BB1C8C0-AD8F-4EF2-AB6B-7A7D05EF2919}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BB1C8C0-AD8F-4EF2-AB6B-7A7D05EF2919}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BB1C8C0-AD8F-4EF2-AB6B-7A7D05EF2919}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9C20BD4-B46F-4F66-802D-53F54D11323B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9C20BD4-B46F-4F66-802D-53F54D11323B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9C20BD4-B46F-4F66-802D-53F54D11323B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9C20BD4-B46F-4F66-802D-53F54D11323B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFEB463F-8B9F-4927-83C6-2C5AC9E747E6}
+	EndGlobalSection
+EndGlobal
